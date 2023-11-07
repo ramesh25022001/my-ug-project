@@ -19,6 +19,3 @@ FEATURES:
 ![Screenshot (9)](https://raw.githubusercontent.com/ramesh25022001/my-ug-project/main/screenshots/photo_2023-11-07_10-46-12.jpg)
 
 ![Screenshot (10)](https://raw.githubusercontent.com/ramesh25022001/my-ug-project/main/screenshots/photo_2023-11-07_10-47-29.jpg)
-
-![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
-
