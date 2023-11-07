@@ -16,7 +16,7 @@ FEATURES:
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
 # SCREENSHOTS
-![Screenshot (9)](vhttps://raw.githubusercontent.com/ramesh25022001/my-ug-project/main/screenshots/photo_2023-11-07_10-46-12.jpg)
+![Screenshot (9)](https://raw.githubusercontent.com/ramesh25022001/my-ug-project/main/screenshots/photo_2023-11-07_10-46-12.jpg)
 
 ![Screenshot (10)](https://raw.githubusercontent.com/ramesh25022001/my-ug-project/main/screenshots/photo_2023-11-07_10-47-29.jpg)
 
